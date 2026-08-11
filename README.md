@@ -142,24 +142,6 @@ Manual Reports
 
 ---
 
-# 🎯 Objectives
-
-The major objectives of the project are:
-
-* 👤 Digitize complete worker profiles
-* 🕐 Automate attendance management
-* 🏖️ Manage employee leave
-* 💰 Simplify monthly payroll
-* ⏰ Track overtime
-* 📄 Digitally store worker documents
-* 📊 Generate workforce analytics
-* 📑 Generate reports and payslips
-* 🔐 Implement secure role-based access
-* 📈 Support data-driven management decisions
-* 📱 Provide a foundation for mobile applications
-* 🤖 Enable future IoT-based attendance
-
----
 
 # ✨ Key Features
 
